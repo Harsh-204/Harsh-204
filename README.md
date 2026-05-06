@@ -26,10 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-204&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-204&layout=compact&theme=tokyonight)
 
 ---
 
