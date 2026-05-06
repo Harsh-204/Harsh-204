@@ -27,8 +27,6 @@
 ---
 
 
----
-
 ### 📬 Connect with Me
 
 [![Email](https://img.shields.io/badge/-harsh1641975@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harsh1641975@gmail.com)
