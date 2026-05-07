@@ -1,6 +1,6 @@
 ## Hi there, I'm Harsh Sahu 👋
 
-🎓 CS Student | 💡 Self-learner | 🤖 ML Enthusiast
+🎓 CS Student | 💡 Self-learner | 🤖 AI Enthusiast
 
 ---
 
